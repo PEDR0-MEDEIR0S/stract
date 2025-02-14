@@ -64,7 +64,7 @@ Para rodar este projeto localmente, clique no arquivo **install.bat** ou siga as
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/PEDR0-MEDEIR0S](https://github.com/PEDR0-MEDEIR0S/stract
+    git clone https://github.com/PEDR0-MEDEIR0S/stract
     ```
 
 2. Entre no diretório do projeto:
